@@ -246,6 +246,16 @@ a:focus {
   transition: all 0.3s;
   border: none;
 }
+.heading_container .order_online {
+  display: inline-block;
+  padding: 8px 30px;
+  background-color: #ffbe33;
+  color: #ffffff;
+  border-radius: 45px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+}
 
 .user_option .order_online:hover {
   background-color: #e69c00;
